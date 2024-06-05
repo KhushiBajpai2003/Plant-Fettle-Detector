@@ -10,3 +10,5 @@ Achieved 98% accuracy in disease detection and quality assessment, utilizing Pyt
 Engineered a user-friendly web application for real-time image analysis, allowing users to upload photos for instant evaluation of fruit health.
 Utilized HTML, CSS, and JavaScript for frontend development, and [Flask/Django/other] for backend integration of the machine learning model.
 Demonstrated potential for scalability by successfully focusing on two fruit types, with the capability of extending the model to additional categories.
+
+###
