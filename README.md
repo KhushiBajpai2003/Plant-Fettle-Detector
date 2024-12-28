@@ -14,6 +14,6 @@ Demonstrated potential for scalability by successfully focusing on two fruit typ
 
 #######################################################################################
 
-# Research Paper
+# Research Paper:
 
 Link : [Plant Fettle Detector: Unifying Fruit Quality Tracking and Plant Disease Detection through Advanced Image Analysis](https://scholar.google.co.in/scholar_url?url=https://ieeexplore.ieee.org/abstract/document/10512262/&hl=en&sa=X&ei=0mNgZqS7BPKJ6rQPoaWhkAQ&scisig=AFWwaeam_XDJI12_4F6Jras_vZky&oi=scholarr)
