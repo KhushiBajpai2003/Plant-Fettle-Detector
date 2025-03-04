@@ -12,7 +12,7 @@ Engineered a user-friendly web application for real-time image analysis, allowin
 Utilized HTML, CSS, and JavaScript for frontend development, and [Flask/Django/other] for backend integration of the machine learning model.
 Demonstrated potential for scalability by successfully focusing on two fruit types, with the capability of extending the model to additional categories.
 
-#######################################################################################
+########################################################################################
 
 # Research Paper:
 
